@@ -140,20 +140,20 @@ content:
     layout: list
     content:
       - layout: left
-      title: Google Data Analytics Certificate
-      caption: Issued March 2023
-      sub_title: Issued by Coursera
-      description: Can be verified at https://www.credly.com/badges/c8758c6f-22c8-4836-9ee5-8cecd8ddad5d/linked_in_profile
+        title: Google Data Analytics Certificate
+        caption: Issued March 2023
+        sub_title: Issued by Coursera
+        description: Can be verified at https://www.credly.com/badges/c8758c6f-22c8-4836-9ee5-8cecd8ddad5d/linked_in_profile
       - layout: left
-      title: CompTIA Security+
-      caption: Issued May 2019, Expired May 2022
-      sub_title: Issued by CompTIA
-      description: Can be verified at http://verify.CompTIA.org with ID 65SKH4NMSHQQQ590
+        title: CompTIA Security+
+        caption: Issued May 2019, Expired May 2022
+        sub_title: Issued by CompTIA
+        description: Can be verified at http://verify.CompTIA.org with ID 65SKH4NMSHQQQ590
       - layout: left
-      title: CompTIA IT Fundamentals+
-      caption: Issued September 2019
-      sub_title: Issued by CompTIA
-      description: Can be verified at http://verify.CompTIA.org with ID BS4CM9JE6PQQQQCV
+        title: CompTIA IT Fundamentals+
+        caption: Issued September 2019
+        sub_title: Issued by CompTIA
+        description: Can be verified at http://verify.CompTIA.org with ID BS4CM9JE6PQQQQCV
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
