@@ -21,7 +21,7 @@ linkedin_username: marcgallard
 # Additional icon links
 additional_links:
 - title: kaggle
-  icon: fas fa-kaggle
+  icon: fab fa-kaggle
   url: https://www.kaggle.com/mrcogllrdo
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -46,24 +46,48 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: EONET Event Visualizer
+        link: github.com/marcgallard
+        # link_text: Blank
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  EONET Event Visualizer Repo
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/marcgallard/EONETEventVisualizer
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Visualizes global events and disasters using Tableau Public, data collected using NASA's EONET API
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way of refreshing my <mark>Python</mark> skills and to practice visualizing data, particularly geospatial data as I've never worked with it before. I have learned a few new skills through this, such as creating a dashboard on Tableau Public. Please feel free to play around with it, the link is posted on the repo page!
+      - layout: top-middle
+        title: BMI Calculator
+        link: github.com/marcgallard
+        # link_text: Blank
+        additional_links:
+          - title:  BMI Calculator
+            icon: fab fa-github
+            url: https://github.com/marcgallard/code-20220915-marcogallardo
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          BMI calculator that takes in JSON data meeting a specified format which is then categorized according to a given JSON table.
+        description: | # this will include new lines to allow paragraphs
+          This was originally a response to a coding question given by a job I applied to in the past. The goal was to create a BMI calculator in <mark>Python</mark> to accept basic health data of several patients in JSON format which can then be used to determine their BMI, its respective category, and associated health risk. The inclusion of a JSON schema and BMI table allows flexibility for how the code can be used.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Professional and Wellness Sabbatical
+        caption: February 2022 - April 2023
+        quote: >
+          Took an extended sabbatical to focus on myself
+        description: | # this will include new lines to allow paragraphs
+          - Earned a Google Data Analytics Certificate from a 24-week Coursera course that taught data analysis and cleaning; completed a Fitabit case study in R and uploaded the write-up to Kaggle
+          - Took an intro project management course on Coursera to better address project managers’ needs
+          • Visualized EONET data from NASA using Tableau, Python, and EONET API; interactive dashboard and code found on GitHub
       - layout: left
         title: The Boring Company
         link: boringcompany.com
