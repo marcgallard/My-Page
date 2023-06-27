@@ -37,7 +37,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marco and I'm an automation engineer. As well as automating systems I also have experience visualizing data (currently focusing on geospatial data), designing and coding ETL processes/workflows, designing and setting up databases with MySql and MongoDB, data science work (including a case study in R on my Kaggle's page + a certificate I earned from Google's Data Analytics course on Coursera), and cybersecurity (I worked as a security engineer and took some security courses, one of which was a networking & security admin 15-week course that led to attaining Security+ and IT Fundaments+ certificates from CompTIA). I have worked at a number of companies, gaining teamwork and leadership skills in the process.
+  Hi, my name's Marco and I'm an automation engineer. As well as automating systems I also have experience visualizing data (currently focusing on geospatial data), designing and coding ETL processes/workflows, designing and setting up databases with MySql and MongoDB, data science work (including a case study in R on my Kaggle's page), and cybersecurity (I worked as a security engineer and took some security courses). I have worked at a number of companies, gaining teamwork and leadership skills in the process. I am looking for work that involves data science, though I am open to other roles.
 
   I am most skilled in: <mark>Python</mark>, <mark>APIs</mark>, <mark>Data structures</mark>, and <mark>Scientific computing</mark>
 
@@ -126,7 +126,34 @@ content:
           The University of California was founded in 1868, born out of a vision in the State Constitution of a university that would “contribute even more than California’s gold to the glory and happiness of advancing generations.”
         description: | # this will include new lines to allow paragraphs
           During my time at UC Berkeley, I learned most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and still keep in touch with some of the friends I've made during my time there.
-
+      - layout: left
+        title: NPower
+        caption: Feb 2019 - Jul 2019
+        sub_title: Networking & Security Administration Program
+        quote: >
+          Attended a nonprofit’s 18-week long IT course geared for veterans and underserved minorities
+        description: | # this will include new lines to allow paragraphs
+            - Practiced implementation of routing protocols such as RIP and OSPF through Cisco’s CLI using Packet Tracer
+            - Monitored and analyzed network traffic using tools such as Wireshark and NetFlow, as well as understanding current encryption standards and technologies
+            - Led a team of 5 against 3 other teams for a week-long point-based competition within the course reviewing all material and won 1st place by more than 20% of point total compared to 2nd
+  - title: Licenses and Certifications
+    layout: list
+    content:
+      - layout: left
+      title: Google Data Analytics Certificate
+      caption: Issued March 2023
+      sub_title: Issued by Coursera
+      description: Can be verified at https://www.credly.com/badges/c8758c6f-22c8-4836-9ee5-8cecd8ddad5d/linked_in_profile
+      - layout: left
+      title: CompTIA Security+
+      caption: Issued May 2019, Expired May 2022
+      sub_title: Issued by CompTIA
+      description: Can be verified at http://verify.CompTIA.org with ID 65SKH4NMSHQQQ590
+      - layout: left
+      title: CompTIA IT Fundamentals+
+      caption: Issued September 2019
+      sub_title: Issued by CompTIA
+      description: Can be verified at http://verify.CompTIA.org with ID BS4CM9JE6PQQQQCV
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
