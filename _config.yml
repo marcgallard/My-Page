@@ -6,34 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Marco Gallardo
+title: Automation Engineer
+email: mrcogllrdo@berkeley.edu
+website: https://marcgallard.github.io/My-Page/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username:  marcgallard
+linkedin_username: marcgallard
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: kaggle
+  icon: fas fa-kaggle
+  url: https://www.kaggle.com/mrcogllrdo
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +37,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Marco and I'm an automation engineer. As well as automating systems I also have experience visualizing data (currently focusing on geospatial data), designing and coding ETL processes/workflows, designing and setting up databases with MySql and MongoDB, data science work (including a case study in R on my Kaggle's page + a certificate I earned from Google's Data Analytics course on Coursera), and cybersecurity (I worked as a security engineer and took some security courses, one of which was a networking & security admin 15-week course that led to attaining Security+ and IT Fundaments+ certificates from CompTIA). I have worked at a number of companies, gaining teamwork and leadership skills in the process.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>APIs</mark>, <mark>Data structures</mark>, and <mark>Scientific computing</mark>
 
 content:
   - title: Projects # Title for the section
@@ -109,7 +98,7 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
+      Look at this cool image
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
