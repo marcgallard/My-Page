@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Marco Gallardo
-title: Automation Engineer
+title: Direct Support Professional
 email: mrcogllrdo@berkeley.edu
 website: https://marcgallard.github.io/My-Page/
 
@@ -37,12 +37,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marco and I'm an automation engineer. As well as automating systems I also have experience visualizing data (currently focusing on geospatial data), designing and coding ETL processes/workflows, designing and setting up databases with MySql and MongoDB, data science work (including a case study in R on my Kaggle's page), and cybersecurity (I worked as a security engineer and took some security courses). I have worked at a number of companies, gaining teamwork and leadership skills in the process. I am looking for work that involves data science, though I am open to other roles.
+  Hi, my name's Marco and I'm an ex-automation engineer, now direct support professional. My tech background consists of: automating systems, visualizing and analyzing data, designing and coding ETL processes/workflows, designing and setting up databases, IT support, and cybersecurity (I worked as a security engineer and took some security courses). I have worked at a number of companies, gaining teamwork and leadership skills in the process.
 
-  I am most skilled in: <mark>Python</mark>, <mark>APIs</mark>, <mark>Data structures</mark>, and <mark>Scientific computing</mark>
+  While I'm still interested in tech, I have also begun to explore fields outside of it that focuses more on interactions outside of the digital medium. The current industries I have begun to explore are healthcare and human services. My current job, direct support professional, has inspired me to seek roles that focus more on serving others in a manner that directly enrich lives. I am still open to roles that involve tech in some form, and I am also focusing my efforts on roles that provide direct service to others. Please feel free to contact me with roles you think I'd be interested in!
+
+  For my tech skillset, I am most skilled in: <mark>Python</mark>, <mark>APIs</mark>, <mark>Data structures</mark>, and <mark>Scientific computing</mark>. For my soft skillset, I am most skilled in: <mark>De-escalation</mark>, <mark>Effective Communication</mark>, <mark>Teamwork</mark>, <mark>Customer Service</mark>, <mark>Caregiving</mark>, and <mark>Leadership</mark>.
 
 content:
-  - title: Projects # Title for the section
+  - title: Tech Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -79,6 +81,18 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Direct Support Professional
+        link: https://www.ressuccess.org/
+        caption: November 2023 - Present
+        quote: >
+          The organization supports adults with intellectual and developmental disabilities with day programs that build dignity and independence in a context of kindness. We help the people we support connect with their communities and pursue the goals and dreams that matter most to them.
+        description: | # this will include new lines to allow paragraphs
+          - Engaging group (3-4) of adults with cognitive disabilities on implementing their Individual Service Plans (ISPs) while navigating their local community
+          - Documents daily progress on the goals and objectives of people who receive services
+          - Provides training and support in behavior management, social etiquette, and utilization of public resources and transit on a daily basis
+          - Collects ongoing input from folks in the program to assist in creating weekly schedules of engaging activities that reflects their interests
+          - Promotes a person-centered approach to care where development of individual autonomy is sought for potential future higher level of independence
       - layout: left
         title: Professional and Wellness Sabbatical
         caption: February 2022 - April 2023
@@ -140,6 +154,16 @@ content:
     layout: list
     content:
       - layout: left
+        title: Adult First Aid/CPR/AED
+        caption: Valid March 2024 to March 2026
+        sub_title: Issued by American Red Cross Training Services
+        description: Can be verified at https://www.redcross.org/take-a-class/digital-certificate with code 01FVV00
+      - layout: left
+        title: Person Centered Thinking Training
+        caption: Valid April 2024 to April 2028
+        sub_title: Issued by Regional Center of the East Bay
+        description: PDF of certificate indicating completion available upon request
+      - layout: left
         title: Google Data Analytics Certificate
         caption: Issued March 2023
         sub_title: Issued by Coursera
@@ -157,11 +181,12 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interest in programming, some of my other interests and hobbies are:
-      - Bouldering
+      Alongside my interest in programming and serving others, some of my other interests and hobbies are:
+      - Bouldering (currently on a hiatus)
       - Gaming
       - Reading (mostly about Buddhism and Hinduism)
-      - Keeping up-to-date with the latest developments in AI
+      - Exploring modern AI developments and how self-awareness could arise in a digital space
+      - Volunteering at my local animal shelter (I LOVE animals!!)
 
 # Footer
 footer_show_references: true
