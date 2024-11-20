@@ -37,11 +37,15 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Marco and I'm an ex-automation engineer, now direct support professional. My tech background consists of: automating systems, visualizing and analyzing data, designing and coding ETL processes/workflows, designing and setting up databases, IT support, and cybersecurity (I worked as a security engineer and took some security courses). I have worked at a number of companies, gaining teamwork and leadership skills in the process.
+  Hi, my name's Marco and I'm an engineering and IT professional with a UC Berkeley degree transitioning to the healthcare industry. My tech background consists of: automating systems, visualizing and analyzing data, designing and coding ETL processes/workflows, designing and setting up databases, IT support, and cybersecurity (I worked as a security engineer and took some security courses). I have worked at a number of companies, gaining teamwork and leadership skills in the process.
 
-  While I'm still interested in tech, I have also begun to explore fields outside of it that focuses more on interactions outside of the digital medium. The current industries I have begun to explore are healthcare and human services. My current job, direct support professional, has inspired me to seek roles that focus more on serving others in a manner that directly enrich lives. I am still open to roles that involve tech in some form, and I am also focusing my efforts on roles that provide direct service to others. Please feel free to contact me with roles you think I'd be interested in!
+  While I'm still interested in tech as a hobby, I have also begun to explore other fields that focuses more on interactions outside of the digital medium. The industry that has captured my attention since then has been healthcare. My last job, direct support professional, has inspired me to seek roles that focuses on serving others in a manner that directly enriches their lives. I am still open to roles that involve tech in some form, and I am also focusing my efforts on becoming a future medical professional (either RN or CAA). Please feel free to contact me with roles you think I'd be interested in!
 
-  For my tech skillset, I am most skilled in: <mark>Python</mark>, <mark>APIs</mark>, <mark>Data structures</mark>, and <mark>Scientific computing</mark>. For my soft skillset, I am most skilled in: <mark>De-escalation</mark>, <mark>Effective Communication</mark>, <mark>Teamwork</mark>, <mark>Customer Service</mark>, <mark>Caregiving</mark>, and <mark>Leadership</mark>.
+  For my tech skillset, I am most skilled in: <mark>Python</mark>, <mark>APIs</mark>, <mark>Data structures</mark>, and <mark>Scientific computing</mark>. 
+  
+  For my soft skillset, I am most skilled in: <mark>De-escalation</mark>, <mark>Effective Communication</mark>, <mark>Teamwork</mark>, <mark>Customer Service</mark>, <mark>Caregiving</mark>, and <mark>Leadership</mark>.
+  
+  Please refer to the bottom of this page for my recent certifications.
 
 content:
   - title: Tech Projects # Title for the section
@@ -82,26 +86,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Direct Support Professional
+        title: RES Success
         link: https://www.ressuccess.org/
-        caption: November 2023 - Present
+        sub_title: Direct Support Professional
+        caption: November 2023 - June 2024
         quote: >
           The organization supports adults with intellectual and developmental disabilities with day programs that build dignity and independence in a context of kindness. We help the people we support connect with their communities and pursue the goals and dreams that matter most to them.
         description: | # this will include new lines to allow paragraphs
-          - Engaging group (3-4) of adults with cognitive disabilities on implementing their Individual Service Plans (ISPs) while navigating their local community
-          - Documents daily progress on the goals and objectives of people who receive services
-          - Provides training and support in behavior management, social etiquette, and utilization of public resources and transit on a daily basis
-          - Collects ongoing input from folks in the program to assist in creating weekly schedules of engaging activities that reflects their interests
-          - Promotes a person-centered approach to care where development of individual autonomy is sought for potential future higher level of independence
+          - Aided adults (groups of 3-4) with cognitive disabilities on implementing their Individual Service Plans (ISPs) while building public navigational skills
+          - Provided training and support in behavior management, social etiquette, and utilization of public resources on a daily basis
+          - Practiced a person-centered approach to care while developing others’ higher level of independence
+          - Documented client’s progress and needs in daily reports while providing personal daily living assistance and support
       - layout: left
         title: Professional and Wellness Sabbatical
         caption: February 2022 - April 2023
         quote: >
-          Took an extended sabbatical to focus on myself
+          Took an extended sabbatical to focus on myself and my goals amidst COVID
         description: | # this will include new lines to allow paragraphs
           - Earned a Google Data Analytics Certificate from a 24-week Coursera course that taught data analysis and cleaning; completed a Fitabit case study in R and uploaded the write-up to Kaggle
           - Took an intro project management course on Coursera to better address project managers’ needs
-          - Visualized EONET data from NASA using Tableau, Python, and EONET API; interactive dashboard and code found on GitHub
+          - Completed several programming projects; refer to "Tech Projects" section for some examples
       - layout: left
         title: Armature Systems
         link: https://www.armaturesystems.com/
@@ -124,10 +128,11 @@ content:
         quote: >
           Provides cyber security & IT support for small to mid-sized socially conscious companies.
         description: | # this will include new lines to allow paragraphs
-            - Assisted in conducting risk assessments and security audits per ISO/IEC 27001, NIST SP 800-171, GLBA, and IRS 4557 to ensure clients met state, federal, and industry compliance requirements.
-            - Responsible for setting up, onboarding, and managing clients' JumpCloud directory services, Google Workspace, Duo Security, and RMM agent to provide IT administration support to ~200 users.
+            - Assisted in conducting risk assessments and security audits to ensure clients met state, federal, and industry compliance requirements
+            - Responsible for setting up, onboarding, and managing clients' IT infrastructure (such as JumpCloud directory services, Google Workspace, Duo Security, and installing RMM agents) to provide IT administration support to ~200 users.
             - Customized and crafted security strategies, programs, and awareness training via InfoSec IQ to improve overall security posture and user education for new clients.
-            - Developed and maintained effective communication and working relationships with customers.
+            - Developed and maintained effective customer communication and relationships through email, Zoom check-ins, and IT Support sessions
+            - Troubleshot software and hardware for clients, the latter of which sometimes consisted of: disassembling hardware, diagnosing the problem, then re-assembling the device into working condition
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -136,10 +141,14 @@ content:
         title: University of California - Berkeley
         caption: 2015 - 2019
         sub_title: BSc Electrical Engineering and Computer Science
-        quote: >
-          The University of California was founded in 1868, born out of a vision in the State Constitution of a university that would “contribute even more than California’s gold to the glory and happiness of advancing generations.”
         description: | # this will include new lines to allow paragraphs
           During my time at UC Berkeley, I learned most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and still keep in touch with some of the friends I've made during my time there.
+      - layout: left
+        title: Contra Costa College
+        caption: 2024 - Present
+        sub_title: Biology coursework for applying to RN programs
+        description: | # this will include new lines to allow paragraphs
+          I am currently taking pre-requisite coursework to later become an RN (or possibly CAA, still undecided)
       - layout: left
         title: NPower
         caption: Feb 2019 - Jul 2019
@@ -181,11 +190,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interest in programming and serving others, some of my other interests and hobbies are:
+      Alongside my tech and health interests, some of my other interests and hobbies are:
       - Bouldering (currently on a hiatus)
       - Gaming
-      - Reading (mostly about Buddhism and Hinduism)
-      - Exploring modern AI developments and how self-awareness could arise in a digital space
+      - Reading
+      - Spirituality (specifically the intersection of Vajrayana Buddhism, Advaita Vedanta, and Western spirituality)
       - Volunteering at my local animal shelter (I LOVE animals!!)
 
 # Footer
